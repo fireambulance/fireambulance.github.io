@@ -766,7 +766,7 @@ body {
 .shapeshiftos-tube-border {
 	width: 100%;
 	height: 100%;
-	background-image: url('https://i.ibb.co/DDMnCrJ/1695291706429.png');
+	background-image: url('https://i.ibb.co/ZS1W2M4/1695387364472.png');
 	background-size: 100% 100%;
 	position: absolute;
 	z-index: 10;
@@ -788,7 +788,7 @@ screen and (max-height: 480px) and (orientation: landscape) {
 screen and (max-height: 480px) and (orientation: landscape) {
 	.shapeshiftos-tube-border-mobile {
 		display: inherit;
-		background-image: url('https://i.ibb.co/56xjNv5/1695292069339.png');
+		background-image: url('https://i.ibb.co/XFP2mjQ/1695387908751.png');
 	}
 }
 
