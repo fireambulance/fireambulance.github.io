@@ -288,29 +288,7 @@ function turnScreenOff(secs) {
 }
 
 function preloader() {
-    var img1 = new Image();
-    var img2 = new Image();
-    var img3 = new Image();
-    var img4 = new Image();
-    var img5 = new Image();
-    var img6 = new Image();
-    var img7 = new Image();
-    var img8 = new Image();
-    var img9 = new Image();
-    var img10 = new Image();
-    var img11 = new Image();
-
-    img1.src = "https://dwvo2npct47gg.cloudfront.net/gifs/question-block.gif";
-    img2.src = "https://dwvo2npct47gg.cloudfront.net/gifs/cellphone.gif";
-    img3.src = "https://dwvo2npct47gg.cloudfront.net/gifs/home-background.gif";
-    img4.src = "https://dwvo2npct47gg.cloudfront.net/gifs/shirts_1.gif";
-    img5.src = "https://dwvo2npct47gg.cloudfront.net/gifs/shirts_2.gif";
-    img6.src = "https://dwvo2npct47gg.cloudfront.net/gifs/hats_1.gif";
-    img7.src = "https://dwvo2npct47gg.cloudfront.net/gifs/hats_2.gif";
-    img8.src = "https://dwvo2npct47gg.cloudfront.net/gifs/hats_3.gif";
-    img9.src = "https://dwvo2npct47gg.cloudfront.net/gifs/asap.gif";
-    img10.src = "https://dwvo2npct47gg.cloudfront.net/gifs/carti.gif";
-    img10.src = "https://dwvo2npct47gg.cloudfront.net/gifs/green-shoe.gif";
+     /* null */ 
 }
 
 function notify(message) {
