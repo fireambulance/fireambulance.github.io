@@ -1720,8 +1720,7 @@ screen and (max-height: 480px) and (orientation: landscape) {
   width: 100%;
 }
 
-@media screen and (min-width: 1900px) and (orientation: portrait),
-screen and (orientation: landscape) {
+@media screen and (min-width: 1900px) {
 	.home-options {
 		  height: 300%;
  		  width: 300%;
